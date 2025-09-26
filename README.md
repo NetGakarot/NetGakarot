@@ -11,8 +11,7 @@
 
 ### 🔧 Tech & Tools  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)  
-![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge)  
-![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=javascript&logoColor=black)  
+![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge)   
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge)  
 
@@ -21,7 +20,7 @@
 ### 📬 Contact  
 - Discord: [_gakarot](https://discordapp.com/users/919422854448156732)  
 - Email: i.am.gakarot@gmail.com  
-- LinkedIn: *[Add link when profile ready]*  
+- LinkedIn: **  
 
 ---
 🌱 *On a mission to break code before hackers do.*
