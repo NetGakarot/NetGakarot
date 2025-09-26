@@ -3,9 +3,10 @@
 🔐 Smart Contract Auditor | Security Researcher | Solidity Developer  
 
 - 🛡️ Experienced with **competitive audits** on platforms: Sherlock, Code4rena, Hackenproof, Immunefi  
-- 🧑‍💻 Built 450+ item **audit checklist** to systematically catch bugs  
-- ⚡ Strong in: Foundry, Solidity, Assembly, Gas Optimization, Attack PoCs  
-- 📂 For real audit reports → [Gakarot-Labs](https://github.com/Gakarot-Labs)  
+- ⚡ Strong in: Foundry, Solidity, Assembly, Gas Optimization, Attack PoCs
+- 🧑‍💻 Studying smart contract security since last year — you can check my practice repos & notes here: [NetGakarot](https://github.com/NetGakarot)
+- 📂 For real audit reports → [Gakarot-Labs](https://github.com/Gakarot-Labs)
+- 🧑‍💻 Built 1000+ item **audit checklist** to systematically catch bugs  
 
 ---
 
