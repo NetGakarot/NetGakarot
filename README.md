@@ -21,7 +21,7 @@
 ### 📬 Contact  
 - Discord: [_gakarot](https://discordapp.com/users/919422854448156732)  
 - Email: i.am.gakarot@gmail.com  
-- LinkedIn: **  
+- LinkedIn: [Shubham Singh](https://www.linkedin.com/in/shubham-singh-335358340/?trk=opento_sprofile_topcard)  
 
 ---
 🌱 *On a mission to break code before hackers do.*
