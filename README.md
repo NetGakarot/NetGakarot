@@ -5,7 +5,7 @@
 - 🛡️ Experienced with **competitive audits** on platforms: Sherlock, Code4rena, Hackenproof, Immunefi  
 - ⚡ Strong in: Foundry, Solidity, Assembly, Gas Optimization, Attack PoCs
 - 🧑‍💻 Studying smart contract security since 2023 you can check my practice repos & notes here: [NetGakarot](https://github.com/NetGakarot)
-- 📂 For my audit work reports check here: [Gakarot-Labs](https://github.com/Gakarot-Labs](https://github.com/Gakarot-Labs/Audit-Work)
+- 📂 For my audit work reports check here: [Gakarot-Labs](https://github.com/Gakarot-Labs/Audit-Work)
  
 
 ---
