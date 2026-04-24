@@ -23,4 +23,4 @@
 - Email: i.am.gakarot@gmail.com  
 
 ---
-🌱 *On a mission to break code before hackers do.*
+🌱 *Every invariant tells a story...*
