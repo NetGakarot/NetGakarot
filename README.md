@@ -6,6 +6,12 @@
 - ⚡ Strong in: Foundry, Solidity, Assembly, Gas Optimization, Attack PoCs
 - 🧑‍💻 Focused on smart contract security research and competitive auditing since 2025, you can check my practice repos & notes here: [NetGakarot](https://github.com/NetGakarot)
 - 📂 For my public audit work reports check here: [Gakarot-Labs](https://github.com/Gakarot-Labs/Audit-Work)
+
+## Open Source Contributions
+
+### Soulbound Security – SBF Protocol
+- Security review of model.
+- Submitted and merged protocol improvement PR.
  
 
 ---
