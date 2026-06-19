@@ -29,4 +29,4 @@
 - Email: i.am.gakarot@gmail.com  
 
 ---
-🌱 *Every invariant tells a story...*
+🌱 *Every invariant tells a story...every exploit leaves one....*
