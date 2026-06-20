@@ -5,8 +5,12 @@
 - 🛡️ Experienced with **competitive audits** on platforms: Sherlock, Code4rena, Hackenproof, Immunefi  
 - ⚡ Strong in: Foundry, Solidity, Assembly, Gas Optimization, Attack PoCs
 - 🧑‍💻 Focused on smart contract security research and competitive auditing since 2025, you can check my practice repos & notes here: [NetGakarot](https://github.com/NetGakarot)
-- 📂 For my public audit work reports check here: [Gakarot-Labs](https://github.com/Gakarot-Labs/Audit-Work)
 
+## 📂 Public Work
+
+- Public findings, protocol reviews and disclosures-----> [Gakarot-Labs](https://github.com/Gakarot-Labs/Audit-Work)
+- This repository contains only work that can be publicly shared.
+- NDA engagements, private audits and confidential disclosures are intentionally excluded.
 ## Open Source Contributions
 
 ### Soulbound Security – SBF Protocol
