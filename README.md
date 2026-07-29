@@ -16,6 +16,9 @@
 ### Soulbound Security – SBF Protocol
 - Security review of model.
 - Submitted and merged protocol improvement PR.
+
+### Blaze-Phoenix
+- Security review of model ongoing.
  
 
 ---
