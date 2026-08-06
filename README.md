@@ -12,7 +12,8 @@
 - Public findings, protocol reviews and disclosures: [Gakarot-Labs](https://github.com/Gakarot-Labs/Audit-Work)
 - This repository contains only work that can be publicly shared.
 - NDA engagements, private audits and confidential disclosures cannot be shared publicly and are therefore excluded.
-## Open Source Contributions
+  
+## 🌍 Open Source Contributions
 
 ### Soulbound Security – [SBF Protocol](https://github.com/Gakarot-Labs/Audit-Work/tree/main/Protocol-Contribution/Soulbound-Finance)
 - Independent security review of the protocol model.
