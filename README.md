@@ -13,7 +13,7 @@
 - NDA engagements, private audits and confidential disclosures cannot be shared publicly and are therefore excluded.
 ## Open Source Contributions
 
-### Soulbound Security – SBF Protocol
+### Soulbound Security – [SBF Protocol](https://github.com/Gakarot-Labs/Audit-Work/tree/main/Protocol-Contribution/Soulbound-Finance)
 - Security review of model.
 - Submitted and merged protocol improvement PR.
 
