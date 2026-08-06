@@ -1,10 +1,11 @@
 # 👋 Hey, I'm Gakarot  
 
-🔐 Smart Contract Auditor | Security Researcher | Solidity Developer  
+🔐 Smart Contract Auditor | Security Researcher | Solidity Developer
 
-- 🛡️ Experienced with **competitive audits** on platforms: Sherlock, Code4rena, Hackenproof, Immunefi  
-- ⚡ Strong in: Foundry, Solidity, Assembly, Gas Optimization, Attack PoCs
-- 🧑‍💻 Focused on smart contract security research and competitive auditing since 2025, you can check my practice repos & notes here: [NetGakarot](https://github.com/NetGakarot)
+- 🛡 Experienced with competitive audits on Sherlock, Code4rena, HackenProof and Immunefi.
+- ⚡ Strong in Solidity, Foundry, Assembly, Gas Optimization and Attack PoCs.
+- 👨‍💻 Focused on smart contract security research since 2025 with public audit reports, protocol contributions and responsible disclosures.
+- 🎯 **44 validated smart contract security findings** accepted across multiple protocols including High, Medium and Low.
 
 ## 📂 Public Work
 
@@ -14,11 +15,25 @@
 ## Open Source Contributions
 
 ### Soulbound Security – [SBF Protocol](https://github.com/Gakarot-Labs/Audit-Work/tree/main/Protocol-Contribution/Soulbound-Finance)
-- Security review of model.
-- Submitted and merged protocol improvement PR.
+- Independent security review of the protocol model.
+- **3 validated findings accepted**
+  - High: 1
+  - Medium: 2
+- Publicly credited in docs.
+- Root-cause analyses and recommended mitigations integrated into the protocol.
 
-### Blaze-Phoenix
-- Security review of model ongoing.
+### BlazePhoenix Protocol - [BlazePhoenix](https://github.com/Gakarot-Labs/Audit-Work/tree/main/Protocol-Contribution/BlazePhoenix)
+
+- Independent security review and responsible disclosures.
+- **7 validated findings accepted**
+  - High: 2
+  - Medium: 3
+  - Low: 2
+- Publicly credited in:
+  - Security Hall of Fame
+  - Technical Whitepaper
+  - Version History
+- Root-cause analyses directly influenced protocol fixes and production releases.
  
 
 ---
