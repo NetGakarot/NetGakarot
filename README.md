@@ -5,7 +5,7 @@
 - 🛡 Experienced with competitive audits on Sherlock, Code4rena, HackenProof and Immunefi.
 - ⚡ Strong in Solidity, Foundry, Assembly, Gas Optimization and Attack PoCs.
 - 👨‍💻 Focused on smart contract security research since 2025 with public audit reports, protocol contributions and responsible disclosures.
-- 🎯 **44 validated smart contract security findings** accepted across multiple protocols including High, Medium and Low.
+- 🎯 **45 validated smart contract security findings** accepted across multiple protocols including High, Medium and Low.
 
 ## 📂 Public Work
 
